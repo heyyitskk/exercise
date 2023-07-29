@@ -8,6 +8,7 @@ int main()
         if(n%i)
         {
             printf("Not a prime");
+            //hehehe
         }
     }
     printf("Prime");
